@@ -1,0 +1,17 @@
+.menu-container {
+    border: 2px solod rgb(1, 1, 19);
+    display: flex;
+    width: 30.1%;
+    justify-content: space-between;
+ }
+ 
+     body {
+        /* Add the background image */
+        background-image: url('file-QhySMSCL3BXXfx6hQvLNC6.webp'); /* Replace with your image path */
+        background-size: cover; /* Makes the image cover the entire screen */
+        background-position: center; /* Centers the image */
+        background-repeat: no-repeat; /* Prevents the image from repeating */
+        height: 100vh; /* Makes the body take full viewport height */
+        margin: 0;
+      }
+  

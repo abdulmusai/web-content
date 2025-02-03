@@ -1,0 +1,29 @@
+.logo{
+    width: 400px;
+    height: 150px;
+}
+ .menu-container {
+    border: 2px solod rgb(1, 1, 19);
+    display: flex;
+    width: 30.1%;
+    justify-content: space-between;
+ }
+ body {
+    /* Add the background image */
+    background-image: url('file-HfaiEHojLZm2rGmCeFjMHg.webp'); /* Rep lace with your image path */
+    background-size: cover; /* Makes the image cover the entire screen */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    height: 100vh; /* Makes the body take full viewport height */
+    margin: 0;
+  }
+.homepage, .aboutus, .ourservices{
+    border: 1px solid burlywood;
+    border-radius: 2px;
+    background-color: aquamarine;
+
+}
+p{
+    background-color: antiquewhite;
+    margin: 10px;
+}

@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    /* Add the background image */
+    background-image: url('file-QhySMSCL3BXXfx6hQvLNC6.webp'); /* Replace with your image path */
+    background-size: cover; /* Makes the image cover the entire screen */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    height: 100vh; /* Makes the body take full viewport height */
+    margin: 0;
+  }
+  
+p{
+    padding: 20px; 10px;
+    color: blue;
+    border: 2px solid;
+    margin: 10px;
+    text-align: Center;
+    margin: 10px;
+}
+
+  
+
+.container {
+    
+    color:rgb(240, 247, 244);
+    background-color: #dde0e3;
+    font-weight: bold;
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+    h1{
+        color: rgb(83, 87, 87);
+        background-color: darkgray;
+        text-align: center;
+        border: 2px solid blueviolet;
+        border-radius: 2px;
+        width: 600px;
+        justify-content: center;
+    }
+
+     
+
+    
+    
